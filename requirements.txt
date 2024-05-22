@@ -12,3 +12,4 @@ bitsandbytes
 jupyter
 wheel
 # flash-attn
+python-dotenv==1.0.1
